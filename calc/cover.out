@@ -1,0 +1,4 @@
+mode: set
+github.com/balamuru/calcdemo/calc/calc.go:3.23,5.2 1 1
+github.com/balamuru/calcdemo/calc/calc.go:8.23,10.2 1 1
+github.com/balamuru/calcdemo/calc/calc.go:13.24,15.2 1 0
