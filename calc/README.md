@@ -7,9 +7,14 @@ Golang testing - basics
 `go test -v`
 
 ### Detailed analysis
+Generate coverage
 ```
 go test -coverage
 go test -coverprofile cover.out
+```
+
+Analyze coverage
+```
 go tool cover -func ./cover.out 
 go tool cover -html ./cover.out 
 
